@@ -1,0 +1,32 @@
+---
+layout: default
+title: Chris Finne
+---
+
+<section id="homeIntro">
+  <h1>Chris Finne's Blog</h1>
+  <h2>
+    The topics are primarily professional and since I'm a "software guy", that means Ruby, Ruby on Rails, jQuery, Amazon AWS, Slicehost, Sphinx, Solr, SMPP and many other technologies that I work (and sometimes struggle) with.
+  </h2>
+</section>
+<section id="articles" class="homeArticles">
+  {% for post in site.posts limit:2 %}
+   <article class="post">
+      <header>
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <span class="date">{{ post.date | date_to_string }}</span>
+      </header>
+
+      <section class="content">
+        {{ post.content | truncatewords:100 }}
+      </section>
+      <div class="more"><a href="{{ post.url }}">read on &raquo;</a></div>
+    </article>
+  {% endfor %}
+</section>
+
+<section id="archives">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</section>
