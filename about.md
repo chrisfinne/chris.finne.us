@@ -22,12 +22,13 @@ date: 2014/04/30
   <li><a href="http://rubyonrails.org">Ruby on Rails</a></li>
   <li><a href="http://lucene.apache.org/solr/">Solr for Searching</a></li>
   <li><a href="http://sphinxsearch.com/">Sphinx for Searching</a></li>
-  <li><a href="http://aerialink.com/">SMS Apps - Long Code and Short Code</a></li>
+  <li><a href="http://aerialink.com/">SMS &amp; MMS Apps - Long Code and Short Code</a></li>
   <li><a href="http://aws.amazon.com/">Amazon AWS</a> (EC2, S3, RDS...)</li>
   <li><a href="http://heroku.com">Heroku</a></li>
-  <li>Facebook Apps and Facebook Connect</li>
-  <li>Typical web development (HTML, CSS, Javascript, MySQL, Apache, Nginx, Lighty, Mongrel, Thin, Passenger, etc.)</li>
+  <li>Facebook API, Apps and Facebook Connect</li>
+  <li>Typical web development (HTML, CSS, Javascript, MySQL, Apache, Nginx, Lighty, Thin, Passenger, etc.)</li>
   <li>Email Solutions (multi-part, embedded images, IMAP, retrieving and parsing email, email deliverability, Litmus testing, DKIM, SPF, etc.)</li>
+  <li>Cisco Support API's, PSS API, SNTC API</li>
 </ul>
 
 <h3>My Other Links</h3>
