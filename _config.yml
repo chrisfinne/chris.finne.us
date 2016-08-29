@@ -1,4 +1,4 @@
 name: Chris Finne
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: pretty
