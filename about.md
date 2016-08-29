@@ -26,9 +26,10 @@ date: 2014/04/30
   <li><a href="http://aws.amazon.com/">Amazon AWS</a> (EC2, S3, RDS...)</li>
   <li><a href="http://heroku.com">Heroku</a></li>
   <li>Facebook API, Apps and Facebook Connect</li>
-  <li>Typical web development (HTML, CSS, Javascript, MySQL, Apache, Nginx, Lighty, Thin, Passenger, etc.)</li>
+  <li>Typical web development (HTML, CSS, Javascript, MySQL, Postgres, PostGIS, Node.js, Apache, Nginx, Lighty, Thin, Passenger, etc.)</li>
   <li>Email Solutions (multi-part, embedded images, IMAP, retrieving and parsing email, email deliverability, Litmus testing, DKIM, SPF, etc.)</li>
   <li>Cisco Support API's, PSS API, SNTC API</li>
+  <li>JSON API backends for mobile iOS/Android Apps</li>
 </ul>
 
 <h3>My Other Links</h3>
