@@ -5,7 +5,7 @@ date: 2010/09/23
 ---
 
 ### &nbsp;
-<div style="float:right"><img src="/images/imac.png" width="200"></img></div>
+<div style="float:right"><img src="/images/imac.png" width="200" /></div>
 
 Just a running list of simple concepts that Microsoft had nailed years ago, but Apple still FAILS to get.
 
