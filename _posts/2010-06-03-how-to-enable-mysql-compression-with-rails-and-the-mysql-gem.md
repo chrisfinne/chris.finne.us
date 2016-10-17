@@ -43,21 +43,3 @@ adds more overhead on the CPU than what you gain in network savings__ when deali
 
 So as I saw with [MySQL compression enabled in my Sphinx setup](/2010/06/03/indexing-sphinx-on-amazon-aws-ec2-with-mysql-rds-and-compression/)
 the network bandwidth between RDS and EC2 instances isn't the bottleneck I'm looking for.
-
-<button href="#" class="sirenGo">TXT ME</button>
-
-<script>
-(function() {
- var sirenApiKey='8491b3915a21448c9aa3a3f07846123b';
- var sirenCssClass='sirenGo';
-
- var script = document.createElement('script');
- script.type = 'text/javascript';
- script.async = true;
- script.src = 'http://conversations-staging.aerialink.net/siren.js';
- script.id = "siren_script_id";
- script.setAttribute('sirenapikey',sirenApiKey);
- script.setAttribute('sirencssclass',sirenCssClass);
- (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-})();
-</script>
