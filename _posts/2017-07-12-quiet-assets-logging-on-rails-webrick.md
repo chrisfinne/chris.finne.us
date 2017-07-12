@@ -18,7 +18,7 @@ This switch works with Webrick and the development.log file, but I usually code 
 Ruby monkey-patching to the rescue:
 
 <pre>
-if Rails.env.development?
+if Rails.env.development? && defined?(::WEBrick)
   # Stop all the /assets/ logs in the webrick stdout
   module WEBrick
     class HTTPServer < ::WEBrick::GenericServer
