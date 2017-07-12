@@ -17,7 +17,7 @@ This switch works with Webrick and the development.log file, but I usually code 
 
 Ruby monkey-patching to the rescue:
 
-```ruby
+<pre>
 if Rails.env.development?
   # Stop all the /assets/ logs in the webrick stdout
   module WEBrick
@@ -29,4 +29,4 @@ if Rails.env.development?
   end
 
 end
-```
+</pre>
